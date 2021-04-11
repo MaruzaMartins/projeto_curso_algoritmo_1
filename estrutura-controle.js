@@ -1,3 +1,4 @@
+
 var nome, nota1, nota02;
 nome = prompt("Digite o nome do aluno: ")
 nota01 = prompt("Ditite a nota 01 do aluno: ")
