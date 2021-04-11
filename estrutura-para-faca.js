@@ -1,16 +1,3 @@
-/*
-    numero, fatorial, contador: inteiro
-inicio
-// Seção de Comandos
-   escreval ("Digite o número para calcular o fatorial: ")
-   Leia (numero)
-   fatorial := 1
-   para contador de 1 ate numero faca
-        fatorial := fatorial * contador
-   fimpara
-   Escreval ("O fatorial de ", numero,  " é: ", fatorial)
-*/
-
 function acaoBotao() {
     var  numero, fatorial, contador
     numero = prompt("Digite o número para calcular o fatorial: ")
