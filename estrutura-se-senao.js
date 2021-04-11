@@ -16,7 +16,7 @@ switch (operacao) {
         resultado = parseInt(valor01) * parseInt(valor02)
         break;  
     case "/":
-        resultado = parseInt(valor01)  parseInt(valor02)
+        resultado = parseInt(valor01) / parseInt(valor02)
         break;  
 }
 
